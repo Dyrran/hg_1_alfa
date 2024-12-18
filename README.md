@@ -1,1 +1,5 @@
-# hg_1_alfa
+# Alfa
+Integrantes:
+- Randy Parra (Caracas, Venezuela)
+- Alfredo Azuaje (Caracas, Venezuela)
+- Gilmar Betancourt (Caracas, Venezuela)
